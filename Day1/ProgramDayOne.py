@@ -1,7 +1,7 @@
 #####################
 #     Part One      #
 #####################
-from rapidfuzz.distance.DamerauLevenshtein import similarity
+
 
 # Create 2 lists of value
 col1 = []
